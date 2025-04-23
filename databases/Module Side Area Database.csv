@@ -1,0 +1,289 @@
+Module #,TimeStep,Site_long,Shelter,Side,Settlement_Area
+111,1,Waikiki,High,N,0.599628448
+111,1,Waikiki,High,S,0.599628448
+112,1,Waikiki,Low,N,0.599628448
+112,1,Waikiki,Low,S,0.599628448
+113,1,Waikiki,High,N,0.599628448
+113,1,Waikiki,High,S,0.599628448
+114,1,Waikiki,Low,N,0.599628448
+114,1,Waikiki,Low,S,0.599628448
+115,1,Waikiki,High,N,0.599628448
+115,1,Waikiki,High,S,0.599628448
+116,1,Waikiki,Low,N,0.599628448
+116,1,Waikiki,Low,S,0.599628448
+211,1,Hanauma Bay,High,N,0.599628448
+211,1,Hanauma Bay,High,S,0.599628448
+212,1,Hanauma Bay,Low,N,0.599628448
+212,1,Hanauma Bay,Low,S,0.599628448
+213,1,Hanauma Bay,High,N,0.599628448
+213,1,Hanauma Bay,High,S,0.599628448
+214,1,Hanauma Bay,Low,N,0.599628448
+214,1,Hanauma Bay,Low,S,0.599628448
+215,1,Hanauma Bay,High,N,0.599628448
+215,1,Hanauma Bay,High,S,0.599628448
+216,1,Hanauma Bay,Low,N,0.599628448
+216,1,Hanauma Bay,Low,S,0.599628448
+111,2,Waikiki,High,N,0.599628448
+111,2,Waikiki,High,S,0.599628448
+112,2,Waikiki,Low,N,0.599628448
+112,2,Waikiki,Low,S,0.599628448
+113,2,Waikiki,High,N,0.599628448
+113,2,Waikiki,High,S,0.599628448
+114,2,Waikiki,Low,N,0.599628448
+114,2,Waikiki,Low,S,0.599628448
+115,2,Waikiki,High,N,0.599628448
+115,2,Waikiki,High,S,0.599628448
+116,2,Waikiki,Low,N,0.599628448
+116,2,Waikiki,Low,S,0.599628448
+211,2,Hanauma Bay,High,N,0.599628448
+211,2,Hanauma Bay,High,S,0.599628448
+212,2,Hanauma Bay,Low,N,0.599628448
+212,2,Hanauma Bay,Low,S,0.599628448
+213,2,Hanauma Bay,High,N,0.599628448
+213,2,Hanauma Bay,High,S,0.599628448
+214,2,Hanauma Bay,Low,N,0.599628448
+214,2,Hanauma Bay,Low,S,0.599628448
+215,2,Hanauma Bay,High,N,0.599628448
+215,2,Hanauma Bay,High,S,0.599628448
+216,2,Hanauma Bay,Low,N,0.599628448
+216,2,Hanauma Bay,Low,S,0.599628448
+111,3,Waikiki,High,N,0.599628448
+111,3,Waikiki,High,S,0.599628448
+112,3,Waikiki,Low,N,0.599628448
+112,3,Waikiki,Low,S,0.599628448
+113,3,Waikiki,High,N,0.599628448
+113,3,Waikiki,High,S,0.599628448
+114,3,Waikiki,Low,N,0.599628448
+114,3,Waikiki,Low,S,0.599628448
+115,3,Waikiki,High,N,0.599628448
+115,3,Waikiki,High,S,0.599628448
+116,3,Waikiki,Low,N,0.599628448
+116,3,Waikiki,Low,S,0.599628448
+211,3,Hanauma Bay,High,N,0.395754777
+211,3,Hanauma Bay,High,S,0.511183252
+212,3,Hanauma Bay,Low,N,0.599628448
+212,3,Hanauma Bay,Low,S,0.599628448
+213,3,Hanauma Bay,High,N,0.599628448
+213,3,Hanauma Bay,High,S,0.599628448
+214,3,Hanauma Bay,Low,N,0.599628448
+214,3,Hanauma Bay,Low,S,0.599628448
+215,3,Hanauma Bay,High,N,0.599628448
+215,3,Hanauma Bay,High,S,0.599628448
+216,3,Hanauma Bay,Low,N,0.599628448
+216,3,Hanauma Bay,Low,S,0.599628448
+111,4,Waikiki,High,N,0.599628448
+111,4,Waikiki,High,S,0.599628448
+112,4,Waikiki,Low,N,0.599628448
+112,4,Waikiki,Low,S,0.599628448
+113,4,Waikiki,High,N,0.599628448
+113,4,Waikiki,High,S,0.599628448
+114,4,Waikiki,Low,N,0.599628448
+114,4,Waikiki,Low,S,0.599628448
+115,4,Waikiki,High,N,0.599628448
+115,4,Waikiki,High,S,0.599628448
+116,4,Waikiki,Low,N,0.599628448
+116,4,Waikiki,Low,S,0.599628448
+211,4,Hanauma Bay,High,N,0.394630474
+211,4,Hanauma Bay,High,S,0.434730626
+212,4,Hanauma Bay,Low,N,0.599628448
+212,4,Hanauma Bay,Low,S,0.599628448
+213,4,Hanauma Bay,High,N,0.599628448
+213,4,Hanauma Bay,High,S,0.599628448
+214,4,Hanauma Bay,Low,N,0.599628448
+214,4,Hanauma Bay,Low,S,0.599628448
+215,4,Hanauma Bay,High,N,0.599628448
+215,4,Hanauma Bay,High,S,0.599628448
+216,4,Hanauma Bay,Low,N,0.599628448
+216,4,Hanauma Bay,Low,S,0.599628448
+111,5,Waikiki,High,N,0.599628448
+111,5,Waikiki,High,S,0.599628448
+112,5,Waikiki,Low,N,0.599628448
+112,5,Waikiki,Low,S,0.599628448
+113,5,Waikiki,High,N,0.599628448
+113,5,Waikiki,High,S,0.599628448
+114,5,Waikiki,Low,N,0.599628448
+114,5,Waikiki,Low,S,0.599628448
+115,5,Waikiki,High,N,0.599628448
+115,5,Waikiki,High,S,0.599628448
+116,5,Waikiki,Low,N,0.599628448
+116,5,Waikiki,Low,S,0.599628448
+211,5,Hanauma Bay,High,N,0.599628448
+211,5,Hanauma Bay,High,S,0.599628448
+212,5,Hanauma Bay,Low,N,0.350033106
+212,5,Hanauma Bay,Low,S,0.415992238
+213,5,Hanauma Bay,High,N,0.599628448
+213,5,Hanauma Bay,High,S,0.5606526
+214,5,Hanauma Bay,Low,N,0.442600749
+214,5,Hanauma Bay,Low,S,0.49132056
+215,5,Hanauma Bay,High,N,0.599628448
+215,5,Hanauma Bay,High,S,0.599628448
+216,5,Hanauma Bay,Low,N,0.599628448
+216,5,Hanauma Bay,Low,S,0.599628448
+111,6,Waikiki,High,N,0.599628448
+111,6,Waikiki,High,S,0.599628448
+112,6,Waikiki,Low,N,0.599628448
+112,6,Waikiki,Low,S,0.599628448
+113,6,Waikiki,High,N,0.599628448
+113,6,Waikiki,High,S,0.599628448
+114,6,Waikiki,Low,N,0.599628448
+114,6,Waikiki,Low,S,0.599628448
+115,6,Waikiki,High,N,0.599628448
+115,6,Waikiki,High,S,0.599628448
+116,6,Waikiki,Low,N,0.599628448
+116,6,Waikiki,Low,S,0.599628448
+211,6,Hanauma Bay,High,N,0.599628448
+211,6,Hanauma Bay,High,S,0.599628448
+212,6,Hanauma Bay,Low,N,0.369146263
+212,6,Hanauma Bay,Low,S,0.449346569
+213,6,Hanauma Bay,High,N,0.599628448
+213,6,Hanauma Bay,High,S,0.549034799
+214,6,Hanauma Bay,Low,N,0.41374363
+214,6,Hanauma Bay,Low,S,0.317803076
+215,6,Hanauma Bay,High,N,0.599628448
+215,6,Hanauma Bay,High,S,0.599628448
+216,6,Hanauma Bay,Low,N,0.492819632
+216,6,Hanauma Bay,Low,S,0.545661888
+111,7,Waikiki,High,N,0.538541302
+111,7,Waikiki,High,S,0.599628448
+112,7,Waikiki,Low,N,0.498441149
+112,7,Waikiki,Low,S,0.599628448
+113,7,Waikiki,High,N,0.599628448
+113,7,Waikiki,High,S,0.599628448
+114,7,Waikiki,Low,N,0.599628448
+114,7,Waikiki,Low,S,0.599628448
+115,7,Waikiki,High,N,0.599628448
+115,7,Waikiki,High,S,0.594006932
+116,7,Waikiki,Low,N,0.599628448
+116,7,Waikiki,Low,S,0.599628448
+211,7,Hanauma Bay,High,N,0.525799196
+211,7,Hanauma Bay,High,S,0.559528297
+212,7,Hanauma Bay,Low,N,0.333918092
+212,7,Hanauma Bay,Low,S,0.434730625
+213,7,Hanauma Bay,High,N,0.531795481
+213,7,Hanauma Bay,High,S,0.468834493
+214,7,Hanauma Bay,Low,N,0.359027534
+214,7,Hanauma Bay,Low,S,0.318927382
+215,7,Hanauma Bay,High,N,0.570396563
+215,7,Hanauma Bay,High,S,0.595131235
+216,7,Hanauma Bay,Low,N,0.599628448
+216,7,Hanauma Bay,Low,S,0.599628448
+111,8,Waikiki,High,N,0.525049661
+111,8,Waikiki,High,S,0.599628448
+112,8,Waikiki,Low,N,0.599628448
+112,8,Waikiki,Low,S,0.599628448
+113,8,Waikiki,High,N,0.599628448
+113,8,Waikiki,High,S,0.595880771
+114,8,Waikiki,Low,N,0.599628448
+114,8,Waikiki,Low,S,0.599628448
+115,8,Waikiki,High,N,0.599628448
+115,8,Waikiki,High,S,0.599628448
+116,8,Waikiki,Low,N,0.599628448
+116,8,Waikiki,Low,S,0.599628448
+211,8,Hanauma Bay,High,N,0.540415139
+211,8,Hanauma Bay,High,S,0.525424428
+212,8,Hanauma Bay,Low,N,0.460589602
+212,8,Hanauma Bay,Low,S,0.466960654
+213,8,Hanauma Bay,High,N,0.599628448
+213,8,Hanauma Bay,High,S,0.599628448
+214,8,Hanauma Bay,Low,N,0.478578456
+214,8,Hanauma Bay,Low,S,0.345535894
+215,8,Hanauma Bay,High,N,0.599628448
+215,8,Hanauma Bay,High,S,0.599628448
+216,8,Hanauma Bay,Low,N,0.599628448
+216,8,Hanauma Bay,Low,S,0.5943817
+111,9,Waikiki,High,N,0.448597034
+111,9,Waikiki,High,S,0.599628448
+112,9,Waikiki,Low,N,0.450470873
+112,9,Waikiki,Low,S,0.599628448
+113,9,Waikiki,High,N,0.599628448
+113,9,Waikiki,High,S,0.596255538
+114,9,Waikiki,Low,N,0.599628448
+114,9,Waikiki,Low,S,0.59625554
+115,9,Waikiki,High,N,0.599628448
+115,9,Waikiki,High,S,0.599628448
+116,9,Waikiki,Low,N,0.525799196
+116,9,Waikiki,Low,S,0.476704616
+211,9,Hanauma Bay,High,N,0.460214835
+211,9,Hanauma Bay,High,S,0.49469347
+212,9,Hanauma Bay,Low,N,0.400626758
+212,9,Hanauma Bay,Low,S,0.455342855
+213,9,Hanauma Bay,High,N,0.487198114
+213,9,Hanauma Bay,High,S,0.538541301
+214,9,Hanauma Bay,Low,N,0.356404159
+214,9,Hanauma Bay,Low,S,0.306185277
+215,9,Hanauma Bay,High,N,0.582389133
+215,9,Hanauma Bay,High,S,0.599628448
+216,9,Hanauma Bay,Low,N,0.48607381
+216,9,Hanauma Bay,Low,S,0.481576598
+111,10,Waikiki,High,N,0.549409567
+111,10,Waikiki,High,S,0.599628448
+112,10,Waikiki,Low,N,0.532170249
+112,10,Waikiki,Low,S,0.599628448
+113,10,Waikiki,High,N,0.512682323
+113,10,Waikiki,High,S,0.539665604
+114,10,Waikiki,Low,N,0.599628448
+114,10,Waikiki,Low,S,0.563275974
+115,10,Waikiki,High,N,0.599628448
+115,10,Waikiki,High,S,0.599628448
+116,10,Waikiki,Low,N,0.599628448
+116,10,Waikiki,Low,S,0.51005895
+211,10,Hanauma Bay,High,N,0.38488651
+211,10,Hanauma Bay,High,S,0.492819631
+212,10,Hanauma Bay,Low,N,0.318177845
+212,10,Hanauma Bay,Low,S,0.434355859
+213,10,Hanauma Bay,High,N,0.436979232
+213,10,Hanauma Bay,High,S,0.503313129
+214,10,Hanauma Bay,Low,N,0.380389298
+214,10,Hanauma Bay,Low,S,0.32754704
+215,10,Hanauma Bay,High,N,0.475955081
+215,10,Hanauma Bay,High,S,0.541539443
+216,10,Hanauma Bay,Low,N,0.448971802
+216,10,Hanauma Bay,Low,S,0.486823346
+111,11,Waikiki,High,N,0.360901373
+111,11,Waikiki,High,S,0.528422572
+112,11,Waikiki,Low,N,0.417491308
+112,11,Waikiki,Low,S,0.55727969
+113,11,Waikiki,High,N,0.495817774
+113,11,Waikiki,High,S,0.512682323
+114,11,Waikiki,Low,N,0.559528297
+114,11,Waikiki,Low,S,0.551658174
+115,11,Waikiki,High,N,0.599628448
+115,11,Waikiki,High,S,0.599628448
+116,11,Waikiki,Low,N,0.493569167
+116,11,Waikiki,Low,S,0.481951366
+211,11,Hanauma Bay,High,N,0.425361432
+211,11,Hanauma Bay,High,S,0.453843783
+212,11,Hanauma Bay,Low,N,0.354155553
+212,11,Hanauma Bay,Low,S,0.465086816
+213,11,Hanauma Bay,High,N,0.475955081
+213,11,Hanauma Bay,High,S,0.573019937
+214,11,Hanauma Bay,Low,N,0.330170414
+214,11,Hanauma Bay,Low,S,0.295691779
+215,11,Hanauma Bay,High,N,0.519428143
+215,11,Hanauma Bay,High,S,0.599628448
+216,11,Hanauma Bay,Low,N,0.438478304
+216,11,Hanauma Bay,Low,S,0.480452294
+111,12,Waikiki,High,N,0.319302149
+111,12,Waikiki,High,S,0.528422571
+112,12,Waikiki,Low,N,0.465461584
+112,12,Waikiki,Low,S,0.599628448
+113,12,Waikiki,High,N,0.537791766
+113,12,Waikiki,High,S,0.537791765
+114,12,Waikiki,Low,N,0.599628448
+114,12,Waikiki,Low,S,0.588760184
+115,12,Waikiki,High,N,0.599628448
+115,12,Waikiki,High,S,0.598129377
+116,12,Waikiki,Low,N,0.591758325
+116,12,Waikiki,Low,S,0.599628448
+211,12,Hanauma Bay,High,N,0.486073812
+211,12,Hanauma Bay,High,S,0.524674892
+212,12,Hanauma Bay,Low,N,0.394255707
+212,12,Hanauma Bay,Low,S,0.478203687
+213,12,Hanauma Bay,High,N,0.547910494
+213,12,Hanauma Bay,High,S,0.599628448
+214,12,Hanauma Bay,Low,N,0.384511743
+214,12,Hanauma Bay,Low,S,0.324923667
+215,12,Hanauma Bay,High,N,0.598878913
+215,12,Hanauma Bay,High,S,0.599628448
+216,12,Hanauma Bay,Low,N,0.579016221
+216,12,Hanauma Bay,Low,S,0.530296409

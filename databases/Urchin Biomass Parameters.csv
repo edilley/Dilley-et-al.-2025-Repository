@@ -1,0 +1,12 @@
+﻿Species,b,a,citation,NOTE: parameters are for calculating mass in grams
+CHGI,3,1,Based on assumption that all biomass is approximately the diameter (cm) cubed,
+DIPA,2.99,0.616595002,Levitan 1988,
+DISA,2.99,0.616595002,Levitan 1988,
+ECAC,2.99,0.616595002,Used same parameters of DIPA as closest comparison,
+ECCA,2.915,0.548,Lewis et al. 2018,
+ECDI,2.915,0.614,Lewis et al. 2018,
+ECMA,2.915,0.531,Lewis et al. 2018,
+ECOB,2.915,0.531,Lewis et al. 2018,
+EUME,3,1,Based on assumption that all biomass is approximately the diameter (cm) cubed,
+HEMA,2.915,1.302,Lewis et al. 2018,
+TRGR,2.915,0.518,Lewis et al. 2018,

@@ -1,0 +1,457 @@
+﻿Module #,Site_long,Shelter,Side,TimeStep,Year,Date
+111,Waikiki,High,N,1,17,5/6/17
+111,Waikiki,High,S,1,17,5/24/17
+111,Waikiki,High,T,1,17,5/24/17
+111,Waikiki,High,E,1,17,5/6/17
+111,Waikiki,High,W,1,17,5/24/17
+112,Waikiki,Low,N,1,17,5/20/17
+112,Waikiki,Low,S,1,17,5/20/17
+112,Waikiki,Low,T,1,17,5/20/17
+112,Waikiki,Low,E,1,17,5/20/17
+112,Waikiki,Low,W,1,17,5/20/17
+113,Waikiki,High,N,1,17,5/18/17
+113,Waikiki,High,S,1,17,5/18/17
+113,Waikiki,High,T,1,17,5/18/17
+113,Waikiki,High,E,1,17,5/18/17
+113,Waikiki,High,W,1,17,5/18/17
+114,Waikiki,Low,N,1,17,5/13/17
+114,Waikiki,Low,S,1,17,5/13/17
+114,Waikiki,Low,T,1,17,5/13/17
+114,Waikiki,Low,E,1,17,5/13/17
+114,Waikiki,Low,W,1,17,5/13/17
+115,Waikiki,High,N,1,17,5/13/17
+115,Waikiki,High,S,1,17,5/13/17
+115,Waikiki,High,T,1,17,5/13/17
+115,Waikiki,High,E,1,17,5/13/17
+115,Waikiki,High,W,1,17,5/13/17
+116,Waikiki,Low,N,1,17,5/6/17
+116,Waikiki,Low,S,1,17,5/6/17
+116,Waikiki,Low,T,1,17,5/6/17
+116,Waikiki,Low,E,1,17,5/6/17
+116,Waikiki,Low,W,1,17,5/6/17
+211,Hanauma Bay,High,N,1,17,5/2/17
+211,Hanauma Bay,High,S,1,17,5/2/17
+211,Hanauma Bay,High,T,1,17,5/2/17
+211,Hanauma Bay,High,E,1,17,5/2/17
+211,Hanauma Bay,High,W,1,17,5/2/17
+212,Hanauma Bay,Low,N,1,17,5/2/17
+212,Hanauma Bay,Low,S,1,17,5/2/17
+212,Hanauma Bay,Low,T,1,17,5/2/17
+212,Hanauma Bay,Low,E,1,17,5/2/17
+212,Hanauma Bay,Low,W,1,17,5/2/17
+213,Hanauma Bay,High,N,1,17,5/2/17
+213,Hanauma Bay,High,S,1,17,5/2/17
+213,Hanauma Bay,High,T,1,17,5/2/17
+213,Hanauma Bay,High,E,1,17,5/2/17
+213,Hanauma Bay,High,W,1,17,5/2/17
+214,Hanauma Bay,Low,N,1,17,5/2/17
+214,Hanauma Bay,Low,S,1,17,5/2/17
+214,Hanauma Bay,Low,T,1,17,5/2/17
+214,Hanauma Bay,Low,E,1,17,5/2/17
+214,Hanauma Bay,Low,W,1,17,5/2/17
+215,Hanauma Bay,High,N,1,17,5/2/17
+215,Hanauma Bay,High,S,1,17,5/2/17
+215,Hanauma Bay,High,T,1,17,5/2/17
+215,Hanauma Bay,High,E,1,17,5/2/17
+215,Hanauma Bay,High,W,1,17,5/2/17
+216,Hanauma Bay,Low,N,1,17,5/2/17
+216,Hanauma Bay,Low,S,1,17,5/2/17
+216,Hanauma Bay,Low,T,1,17,5/2/17
+216,Hanauma Bay,Low,E,1,17,5/2/17
+216,Hanauma Bay,Low,W,1,17,5/2/17
+111,Waikiki,High,N,2,17,8/9/17
+111,Waikiki,High,S,2,17,8/9/17
+111,Waikiki,High,T,2,17,8/9/17
+111,Waikiki,High,E,2,17,8/9/17
+111,Waikiki,High,W,2,17,8/9/17
+112,Waikiki,Low,N,2,17,8/11/17
+112,Waikiki,Low,S,2,17,8/11/17
+112,Waikiki,Low,T,2,17,8/11/17
+112,Waikiki,Low,E,2,17,8/11/17
+112,Waikiki,Low,W,2,17,8/11/17
+113,Waikiki,High,N,2,17,8/12/17
+113,Waikiki,High,S,2,17,8/12/17
+113,Waikiki,High,T,2,17,8/12/17
+113,Waikiki,High,E,2,17,8/12/17
+113,Waikiki,High,W,2,17,8/12/17
+114,Waikiki,Low,N,2,17,8/11/17
+114,Waikiki,Low,S,2,17,8/11/17
+114,Waikiki,Low,T,2,17,8/11/17
+114,Waikiki,Low,E,2,17,8/11/17
+114,Waikiki,Low,W,2,17,8/11/17
+115,Waikiki,High,N,2,17,8/9/17
+115,Waikiki,High,S,2,17,8/11/17
+115,Waikiki,High,T,2,17,8/11/17
+115,Waikiki,High,E,2,17,8/11/17
+115,Waikiki,High,W,2,17,8/11/17
+116,Waikiki,Low,N,2,17,8/9/17
+116,Waikiki,Low,S,2,17,8/9/17
+116,Waikiki,Low,T,2,17,8/9/17
+116,Waikiki,Low,E,2,17,8/9/17
+116,Waikiki,Low,W,2,17,8/9/17
+211,Hanauma Bay,High,N,2,17,8/8/17
+211,Hanauma Bay,High,S,2,17,8/8/17
+211,Hanauma Bay,High,T,2,17,8/8/17
+211,Hanauma Bay,High,E,2,17,8/8/17
+211,Hanauma Bay,High,W,2,17,8/8/17
+212,Hanauma Bay,Low,N,2,17,8/8/17
+212,Hanauma Bay,Low,S,2,17,8/8/17
+212,Hanauma Bay,Low,T,2,17,8/8/17
+212,Hanauma Bay,Low,E,2,17,8/8/17
+212,Hanauma Bay,Low,W,2,17,8/8/17
+213,Hanauma Bay,High,N,2,17,8/8/17
+213,Hanauma Bay,High,S,2,17,8/8/17
+213,Hanauma Bay,High,T,2,17,8/8/17
+213,Hanauma Bay,High,E,2,17,8/8/17
+213,Hanauma Bay,High,W,2,17,8/8/17
+214,Hanauma Bay,Low,N,2,17,8/8/17
+214,Hanauma Bay,Low,S,2,17,8/8/17
+214,Hanauma Bay,Low,T,2,17,8/8/17
+214,Hanauma Bay,Low,E,2,17,8/8/17
+214,Hanauma Bay,Low,W,2,17,8/8/17
+215,Hanauma Bay,High,N,2,17,8/8/17
+215,Hanauma Bay,High,S,2,17,8/8/17
+215,Hanauma Bay,High,T,2,17,8/8/17
+215,Hanauma Bay,High,E,2,17,8/8/17
+215,Hanauma Bay,High,W,2,17,8/8/17
+216,Hanauma Bay,Low,N,2,17,8/8/17
+216,Hanauma Bay,Low,S,2,17,8/8/17
+216,Hanauma Bay,Low,T,2,17,8/8/17
+216,Hanauma Bay,Low,E,2,17,8/8/17
+216,Hanauma Bay,Low,W,2,17,8/8/17
+111,Waikiki,High,N,3,17,11/19/17
+111,Waikiki,High,S,3,17,11/19/17
+111,Waikiki,High,T,3,17,11/19/17
+111,Waikiki,High,E,3,17,11/19/17
+111,Waikiki,High,W,3,17,11/19/17
+112,Waikiki,Low,N,3,17,11/5/17
+112,Waikiki,Low,S,3,17,11/5/17
+112,Waikiki,Low,T,3,17,11/5/17
+112,Waikiki,Low,E,3,17,11/5/17
+112,Waikiki,Low,W,3,17,11/5/17
+113,Waikiki,High,N,3,17,11/10/17
+113,Waikiki,High,S,3,17,11/10/17
+113,Waikiki,High,T,3,17,11/10/17
+113,Waikiki,High,E,3,17,11/10/17
+113,Waikiki,High,W,3,17,11/10/17
+114,Waikiki,Low,N,3,17,11/12/17
+114,Waikiki,Low,S,3,17,11/12/17
+114,Waikiki,Low,T,3,17,11/12/17
+114,Waikiki,Low,E,3,17,11/12/17
+114,Waikiki,Low,W,3,17,11/12/17
+115,Waikiki,High,N,3,17,11/5/17
+115,Waikiki,High,S,3,17,11/5/17
+115,Waikiki,High,T,3,17,11/5/17
+115,Waikiki,High,E,3,17,11/5/17
+115,Waikiki,High,W,3,17,11/5/17
+116,Waikiki,Low,N,3,17,11/7/17
+116,Waikiki,Low,S,3,17,11/7/17
+116,Waikiki,Low,T,3,17,11/7/17
+116,Waikiki,Low,E,3,17,11/7/17
+116,Waikiki,Low,W,3,17,11/7/17
+211,Hanauma Bay,High,N,3,17,11/14/17
+211,Hanauma Bay,High,S,3,17,11/14/17
+211,Hanauma Bay,High,T,3,17,11/14/17
+211,Hanauma Bay,High,E,3,17,11/14/17
+211,Hanauma Bay,High,W,3,17,11/14/17
+212,Hanauma Bay,Low,N,3,17,11/14/17
+212,Hanauma Bay,Low,S,3,17,11/14/17
+212,Hanauma Bay,Low,T,3,17,11/14/17
+212,Hanauma Bay,Low,E,3,17,11/14/17
+212,Hanauma Bay,Low,W,3,17,11/14/17
+213,Hanauma Bay,High,N,3,17,11/14/17
+213,Hanauma Bay,High,S,3,17,11/14/17
+213,Hanauma Bay,High,T,3,17,11/14/17
+213,Hanauma Bay,High,E,3,17,11/14/17
+213,Hanauma Bay,High,W,3,17,11/14/17
+214,Hanauma Bay,Low,N,3,17,11/14/17
+214,Hanauma Bay,Low,S,3,17,11/14/17
+214,Hanauma Bay,Low,T,3,17,11/14/17
+214,Hanauma Bay,Low,E,3,17,11/14/17
+214,Hanauma Bay,Low,W,3,17,11/14/17
+215,Hanauma Bay,High,N,3,17,11/14/17
+215,Hanauma Bay,High,S,3,17,11/14/17
+215,Hanauma Bay,High,T,3,17,11/14/17
+215,Hanauma Bay,High,E,3,17,11/14/17
+215,Hanauma Bay,High,W,3,17,11/14/17
+216,Hanauma Bay,Low,N,3,17,11/14/17
+216,Hanauma Bay,Low,S,3,17,11/14/17
+216,Hanauma Bay,Low,T,3,17,11/14/17
+216,Hanauma Bay,Low,E,3,17,11/14/17
+216,Hanauma Bay,Low,W,3,17,11/14/17
+111,Waikiki,High,N,4,18,3/13/18
+111,Waikiki,High,S,4,18,3/13/18
+111,Waikiki,High,T,4,18,3/13/18
+111,Waikiki,High,E,4,18,3/13/18
+111,Waikiki,High,W,4,18,3/13/18
+112,Waikiki,Low,N,4,18,3/13/18
+112,Waikiki,Low,S,4,18,3/13/18
+112,Waikiki,Low,T,4,18,3/13/18
+112,Waikiki,Low,E,4,18,3/13/18
+112,Waikiki,Low,W,4,18,3/13/18
+113,Waikiki,High,N,4,18,3/10/18
+113,Waikiki,High,S,4,18,3/11/18
+113,Waikiki,High,T,4,18,3/11/18
+113,Waikiki,High,E,4,18,3/11/18
+113,Waikiki,High,W,4,18,3/11/18
+114,Waikiki,Low,N,4,18,3/11/18
+114,Waikiki,Low,S,4,18,3/11/18
+114,Waikiki,Low,T,4,18,3/11/18
+114,Waikiki,Low,E,4,18,3/11/18
+114,Waikiki,Low,W,4,18,3/11/18
+115,Waikiki,High,N,4,18,3/4/18
+115,Waikiki,High,S,4,18,3/4/18
+115,Waikiki,High,T,4,18,3/4/18
+115,Waikiki,High,E,4,18,3/4/18
+115,Waikiki,High,W,4,18,3/4/18
+116,Waikiki,Low,N,4,18,2/24/18
+116,Waikiki,Low,S,4,18,2/24/18
+116,Waikiki,Low,T,4,18,2/24/18
+116,Waikiki,Low,E,4,18,2/24/18
+116,Waikiki,Low,W,4,18,2/24/18
+211,Hanauma Bay,High,N,4,18,2/20/18
+211,Hanauma Bay,High,S,4,18,2/20/18
+211,Hanauma Bay,High,T,4,18,2/20/18
+211,Hanauma Bay,High,E,4,18,2/20/18
+211,Hanauma Bay,High,W,4,18,2/20/18
+212,Hanauma Bay,Low,N,4,18,2/13/18
+212,Hanauma Bay,Low,S,4,18,2/13/18
+212,Hanauma Bay,Low,T,4,18,2/13/18
+212,Hanauma Bay,Low,E,4,18,2/13/18
+212,Hanauma Bay,Low,W,4,18,2/13/18
+213,Hanauma Bay,High,N,4,18,2/13/18
+213,Hanauma Bay,High,S,4,18,2/13/18
+213,Hanauma Bay,High,T,4,18,2/13/18
+213,Hanauma Bay,High,E,4,18,2/13/18
+213,Hanauma Bay,High,W,4,18,2/13/18
+214,Hanauma Bay,Low,N,4,18,2/13/18
+214,Hanauma Bay,Low,S,4,18,2/13/18
+214,Hanauma Bay,Low,T,4,18,2/13/18
+214,Hanauma Bay,Low,E,4,18,2/13/18
+214,Hanauma Bay,Low,W,4,18,2/13/18
+215,Hanauma Bay,High,N,4,18,2/13/18
+215,Hanauma Bay,High,S,4,18,2/13/18
+215,Hanauma Bay,High,T,4,18,2/13/18
+215,Hanauma Bay,High,E,4,18,2/13/18
+215,Hanauma Bay,High,W,4,18,2/13/18
+216,Hanauma Bay,Low,N,4,18,2/13/18
+216,Hanauma Bay,Low,S,4,18,2/13/18
+216,Hanauma Bay,Low,T,4,18,2/13/18
+216,Hanauma Bay,Low,E,4,18,2/13/18
+216,Hanauma Bay,Low,W,4,18,2/13/18
+111,Waikiki,High,N,5,18,6/2/18
+111,Waikiki,High,S,5,18,6/2/18
+112,Waikiki,Low,N,5,18,5/31/18
+112,Waikiki,Low,S,5,18,5/31/18
+113,Waikiki,High,N,5,18,5/24/18
+113,Waikiki,High,S,5,18,5/24/18
+114,Waikiki,Low,N,5,18,5/31/18
+114,Waikiki,Low,S,5,18,5/31/18
+115,Waikiki,High,N,5,18,5/26/18
+115,Waikiki,High,S,5,18,5/26/18
+116,Waikiki,Low,N,5,18,5/24/18
+116,Waikiki,Low,S,5,18,5/24/18
+211,Hanauma Bay,High,N,5,18,6/5/18
+211,Hanauma Bay,High,S,5,18,6/5/18
+212,Hanauma Bay,Low,N,5,18,6/5/18
+212,Hanauma Bay,Low,S,5,18,6/5/18
+213,Hanauma Bay,High,N,5,18,6/5/18
+213,Hanauma Bay,High,S,5,18,6/5/18
+214,Hanauma Bay,Low,N,5,18,6/5/18
+214,Hanauma Bay,Low,S,5,18,6/5/18
+215,Hanauma Bay,High,N,5,18,5/29/18
+215,Hanauma Bay,High,S,5,18,5/29/18
+216,Hanauma Bay,Low,N,5,18,5/29/18
+216,Hanauma Bay,Low,S,5,18,6/5/18
+111,Waikiki,High,N,6,18,9/6/18
+111,Waikiki,High,S,6,18,9/6/18
+112,Waikiki,Low,N,6,18,8/30/18
+112,Waikiki,Low,S,6,18,8/30/18
+113,Waikiki,High,N,6,18,9/8/18
+113,Waikiki,High,S,6,18,9/8/18
+114,Waikiki,Low,N,6,18,9/6/18
+114,Waikiki,Low,S,6,18,9/6/18
+115,Waikiki,High,N,6,18,8/30/18
+115,Waikiki,High,S,6,18,8/30/18
+116,Waikiki,Low,N,6,18,9/8/18
+116,Waikiki,Low,S,6,18,9/8/18
+211,Hanauma Bay,High,N,6,18,9/9/18
+211,Hanauma Bay,High,S,6,18,9/9/18
+212,Hanauma Bay,Low,N,6,18,9/9/18
+212,Hanauma Bay,Low,S,6,18,9/9/18
+213,Hanauma Bay,High,N,6,18,9/9/18
+213,Hanauma Bay,High,S,6,18,9/9/18
+214,Hanauma Bay,Low,N,6,18,9/9/18
+214,Hanauma Bay,Low,S,6,18,9/9/18
+215,Hanauma Bay,High,N,6,18,9/9/18
+215,Hanauma Bay,High,S,6,18,9/9/18
+216,Hanauma Bay,Low,N,6,18,9/9/18
+216,Hanauma Bay,Low,S,6,18,9/9/18
+111,Waikiki,High,N,7,18,11/25/18
+111,Waikiki,High,S,7,18,11/25/18
+112,Waikiki,Low,N,7,18,12/2/18
+112,Waikiki,Low,S,7,18,12/2/18
+113,Waikiki,High,N,7,18,11/24/18
+113,Waikiki,High,S,7,18,11/24/18
+114,Waikiki,Low,N,7,18,11/24/18
+114,Waikiki,Low,S,7,18,11/24/18
+115,Waikiki,High,N,7,18,12/2/18
+115,Waikiki,High,S,7,18,12/2/18
+116,Waikiki,Low,N,7,18,11/25/18
+116,Waikiki,Low,S,7,18,11/25/18
+211,Hanauma Bay,High,N,7,18,11/27/18
+211,Hanauma Bay,High,S,7,18,11/27/18
+212,Hanauma Bay,Low,N,7,18,11/27/18
+212,Hanauma Bay,Low,S,7,18,11/27/18
+213,Hanauma Bay,High,N,7,18,12/4/18
+213,Hanauma Bay,High,S,7,18,12/4/18
+214,Hanauma Bay,Low,N,7,18,11/27/18
+214,Hanauma Bay,Low,S,7,18,11/27/18
+215,Hanauma Bay,High,N,7,18,11/27/18
+215,Hanauma Bay,High,S,7,18,11/27/18
+216,Hanauma Bay,Low,N,7,18,11/27/18
+216,Hanauma Bay,Low,S,7,18,11/27/18
+111,Waikiki,High,N,8,19,3/9/19
+111,Waikiki,High,S,8,19,3/9/19
+112,Waikiki,Low,N,8,19,3/2/19
+112,Waikiki,Low,S,8,19,3/2/19
+113,Waikiki,High,N,8,19,3/10/19
+113,Waikiki,High,S,8,19,3/10/19
+114,Waikiki,Low,N,8,19,3/10/19
+114,Waikiki,Low,S,8,19,3/10/19
+115,Waikiki,High,N,8,19,3/2/19
+115,Waikiki,High,S,8,19,3/2/19
+116,Waikiki,Low,N,8,19,3/9/19
+116,Waikiki,Low,S,8,19,3/9/19
+211,Hanauma Bay,High,N,8,19,2/26/19
+211,Hanauma Bay,High,S,8,19,3/16/19
+212,Hanauma Bay,Low,N,8,19,2/26/19
+212,Hanauma Bay,Low,S,8,19,2/26/19
+213,Hanauma Bay,High,N,8,19,3/5/19
+213,Hanauma Bay,High,S,8,19,3/5/19
+214,Hanauma Bay,Low,N,8,19,3/5/19
+214,Hanauma Bay,Low,S,8,19,3/5/19
+215,Hanauma Bay,High,N,8,19,3/12/19
+215,Hanauma Bay,High,S,8,19,3/12/19
+216,Hanauma Bay,Low,N,8,19,2/26/19
+216,Hanauma Bay,Low,S,8,19,2/26/19
+111,Waikiki,High,N,9,19,5/30/19
+111,Waikiki,High,S,9,19,5/30/19
+112,Waikiki,Low,N,9,19,5/31/19
+112,Waikiki,Low,S,9,19,5/31/19
+113,Waikiki,High,N,9,19,5/23/19
+113,Waikiki,High,S,9,19,5/23/19
+114,Waikiki,Low,N,9,19,5/23/19
+114,Waikiki,Low,S,9,19,5/23/19
+115,Waikiki,High,N,9,19,6/1/19
+115,Waikiki,High,S,9,19,6/1/19
+116,Waikiki,Low,N,9,19,5/30/19
+116,Waikiki,Low,S,9,19,5/30/19
+211,Hanauma Bay,High,N,9,19,5/21/19
+211,Hanauma Bay,High,S,9,19,5/21/19
+212,Hanauma Bay,Low,N,9,19,5/21/19
+212,Hanauma Bay,Low,S,9,19,5/21/19
+213,Hanauma Bay,High,N,9,19,5/28/19
+213,Hanauma Bay,High,S,9,19,5/28/19
+214,Hanauma Bay,Low,N,9,19,5/28/19
+214,Hanauma Bay,Low,S,9,19,5/28/19
+215,Hanauma Bay,High,N,9,19,5/21/19
+215,Hanauma Bay,High,S,9,19,5/21/19
+216,Hanauma Bay,Low,N,9,19,5/28/19
+216,Hanauma Bay,Low,S,9,19,5/28/19
+111,Waikiki,High,N,10,19,9/5/19
+111,Waikiki,High,S,10,19,9/5/19
+112,Waikiki,Low,N,10,19,9/1/19
+112,Waikiki,Low,S,10,19,9/1/19
+113,Waikiki,High,N,10,19,8/31/19
+113,Waikiki,High,S,10,19,8/31/19
+114,Waikiki,Low,N,10,19,8/31/19
+114,Waikiki,Low,S,10,19,8/31/19
+115,Waikiki,High,N,10,19,9/1/19
+115,Waikiki,High,S,10,19,9/1/19
+116,Waikiki,Low,N,10,19,9/5/19
+116,Waikiki,Low,S,10,19,9/5/19
+211,Hanauma Bay,High,N,10,19,8/27/19
+211,Hanauma Bay,High,S,10,19,8/27/19
+212,Hanauma Bay,Low,N,10,19,8/27/19
+212,Hanauma Bay,Low,S,10,19,8/27/19
+213,Hanauma Bay,High,N,10,19,9/3/19
+213,Hanauma Bay,High,S,10,19,9/3/19
+214,Hanauma Bay,Low,N,10,19,8/27/19
+214,Hanauma Bay,Low,S,10,19,8/27/19
+215,Hanauma Bay,High,N,10,19,9/3/19
+215,Hanauma Bay,High,S,10,19,9/3/19
+216,Hanauma Bay,Low,N,10,19,8/27/19
+216,Hanauma Bay,Low,S,10,19,8/27/19
+111,Waikiki,High,N,11,19,12/1/19
+111,Waikiki,High,S,11,19,12/1/19
+112,Waikiki,Low,N,11,19,11/30/19
+112,Waikiki,Low,S,11,19,11/30/19
+113,Waikiki,High,N,11,19,11/23/19
+113,Waikiki,High,S,11,19,11/23/19
+114,Waikiki,Low,N,11,19,11/24/19
+114,Waikiki,Low,S,11,19,11/24/19
+115,Waikiki,High,N,11,19,11/30/19
+115,Waikiki,High,S,11,19,11/30/19
+116,Waikiki,Low,N,11,19,12/1/19
+116,Waikiki,Low,S,11,19,12/1/19
+211,Hanauma Bay,High,N,11,19,11/26/19
+211,Hanauma Bay,High,S,11,19,12/3/19
+212,Hanauma Bay,Low,N,11,19,11/26/19
+212,Hanauma Bay,Low,S,11,19,11/26/19
+213,Hanauma Bay,High,N,11,19,12/3/19
+213,Hanauma Bay,High,S,11,19,12/3/19
+214,Hanauma Bay,Low,N,11,19,11/26/19
+214,Hanauma Bay,Low,S,11,19,11/26/19
+215,Hanauma Bay,High,N,11,19,12/3/19
+215,Hanauma Bay,High,S,11,19,12/3/19
+216,Hanauma Bay,Low,N,11,19,11/26/19
+216,Hanauma Bay,Low,S,11,19,11/26/19
+111,Waikiki,High,N,12,20,2/23/20
+111,Waikiki,High,S,12,20,2/23/20
+112,Waikiki,Low,N,12,20,3/15/20
+112,Waikiki,Low,S,12,20,3/15/20
+113,Waikiki,High,N,12,20,2/29/20
+113,Waikiki,High,S,12,20,2/29/20
+114,Waikiki,Low,N,12,20,2/29/20
+114,Waikiki,Low,S,12,20,2/29/20
+115,Waikiki,High,N,12,20,3/15/20
+115,Waikiki,High,S,12,20,3/15/20
+116,Waikiki,Low,N,12,20,2/23/20
+116,Waikiki,Low,S,12,20,2/23/20
+211,Hanauma Bay,High,N,12,20,3/12/20
+211,Hanauma Bay,High,S,12,20,3/12/20
+212,Hanauma Bay,Low,N,12,20,3/12/20
+212,Hanauma Bay,Low,S,12,20,3/12/20
+213,Hanauma Bay,High,N,12,20,3/12/20
+213,Hanauma Bay,High,S,12,20,3/12/20
+214,Hanauma Bay,Low,N,12,20,3/10/20
+214,Hanauma Bay,Low,S,12,20,3/10/20
+215,Hanauma Bay,High,N,12,20,3/12/20
+215,Hanauma Bay,High,S,12,20,3/12/20
+216,Hanauma Bay,Low,N,12,20,3/10/20
+216,Hanauma Bay,Low,S,12,20,3/10/20
+111,Waikiki,High,N,13,20,5/23/20
+111,Waikiki,High,S,13,20,5/23/20
+112,Waikiki,Low,N,13,20,6/5/20
+112,Waikiki,Low,S,13,20,6/5/20
+113,Waikiki,High,N,13,20,5/30/20
+113,Waikiki,High,S,13,20,5/30/20
+114,Waikiki,Low,N,13,20,5/30/20
+114,Waikiki,Low,S,13,20,5/30/20
+115,Waikiki,High,N,13,20,6/5/20
+115,Waikiki,High,S,13,20,6/5/20
+116,Waikiki,Low,N,13,20,5/23/20
+116,Waikiki,Low,S,13,20,5/23/20
+211,Hanauma Bay,High,N,13,20,6/9/20
+211,Hanauma Bay,High,S,13,20,6/9/20
+212,Hanauma Bay,Low,N,13,20,5/26/20
+212,Hanauma Bay,Low,S,13,20,5/26/20
+213,Hanauma Bay,High,N,13,20,6/9/20
+213,Hanauma Bay,High,S,13,20,6/9/20
+214,Hanauma Bay,Low,N,13,20,5/26/20
+214,Hanauma Bay,Low,S,13,20,5/26/20
+215,Hanauma Bay,High,N,13,20,6/12/20
+215,Hanauma Bay,High,S,13,20,6/12/20
+216,Hanauma Bay,Low,N,13,20,5/26/20
+216,Hanauma Bay,Low,S,13,20,5/26/20
